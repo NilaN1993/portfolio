@@ -1,0 +1,39 @@
+h1{
+	color: red;
+	font-family: Lucida Handwriting;
+	text-align: center;
+}
+td{
+	color: blue;
+}
+th{
+	color: green;
+	text-align: center;
+	font-family: Monotype Corsiva;
+}
+.label{
+	color: red;
+}
+
+.about-me{
+	text-align: center;
+	color: red;
+
+}
+.content{
+	color: blue;
+}
+
+
+.profile-image{
+	padding: 20px;
+	width: 200px; height:200px; align:left;
+	}
+.left{
+	text-align: left;
+
+}
+
+.personal-detail{
+	padding-left: 20px;
+}
